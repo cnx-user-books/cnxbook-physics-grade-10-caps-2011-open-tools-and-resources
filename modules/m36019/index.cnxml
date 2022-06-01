@@ -1,0 +1,73 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>PhET Simulations website review</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m36019</md:content-id>
+  <md:title>PhET Simulations website review</md:title>
+  <md:abstract>A review of the PhET Simulations website.
+Fun, interactive, research-based simulations of physical phenomena from the PhET project at the University of Colorado – it's free! Helps students visually comprehend concepts.</md:abstract>
+  <md:uuid>688b973c-c2ab-409b-a9f5-fd4cad9bdc8d</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1165272711138">
+      <title>PhET Simulations</title>
+      <para id="id1165272650402">
+        <figure id="id1165276895547">
+          <media id="id1165276895547_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics1-42e4.png" id="id1165276895547__onlineimage" height="217" width="669"/>
+          </media>
+        </figure>
+        <link url="http://phet.colorado.edu/">http://phet.colorado.edu/</link>
+      </para>
+      <list id="id1165272590023" list-type="bulleted">
+        <item>Fun, interactive, <link url="http://phet.colorado.edu/en/research">research-based</link> simulations of 
+physical phenomena from the PhET project at the University of Colorado – it's 
+free!</item>
+        <item>The PhET simulation design principles are based on research on how 
+students learn</item>
+        <item>PhET simulations have been found to be very effective in lectures, 
+in class activities, lab and homework</item>
+        <item>Designed with minimal text so that they can easily be integrated 
+into every aspect of a course</item>
+      </list>
+      <section id="id1165283996858">
+        <title>What the website offers:</title>
+        <list id="id1165279152705" list-type="bulleted">
+          <item>It enables students to make connections between real-life 
+phenomena and the underlying science, deepening their understanding and 
+appreciation of the physical world</item>
+          <item>Helps students visually comprehend concepts </item>
+          <item>PhET simulations animate what is invisible to the eye through 
+the use of graphics and intuitive controls such as click-and-drag manipulation, 
+sliders and radio buttons</item>
+          <item>In order to further encourage quantitative exploration, the 
+simulations also offer measurement instruments including rulers, stop-watches, 
+voltmeters and thermometers</item>
+          <item>As the user manipulates these interactive tools, responses are 
+immediately animated thus effectively illustrating cause-and-effect 
+relationships as well as multiple linked representations</item>
+          <item>There are simulations for physics, biology, chemistry, earth 
+science, maths</item>
+          <item>You can also search for them by grade level (American standards)
+</item>
+          <item>You can find some simulations in Afrikaans (and many other 
+languages too)</item>
+        </list>
+        <section id="id1165283730872">
+          <title>For teachers:</title>
+          <list id="id1165278956138" list-type="bulleted">
+            <item>There is a page dedicated to teachers – an ideas and activity 
+page: <link url="http://phet.colorado.edu/en/for- teachers">http://phet.colorado.edu/en/for-teachers</link></item>
+            <item>There are teacher submitted contributions, designed to be used 
+in conjunction with the <link url="http://phet.colorado.edu/en/simulations/category/new"><emphasis effect="underline">PhET simulations</emphasis></link></item>
+            <item>These contributions include homework assignments, lectures, 
+activities, concept questions and more, and enable you to get the most out of 
+your PhET experience</item>
+            <item>If you have developed your own material, they encourage you to 
+contribute it</item>
+          </list>
+        </section>
+      </section>
+    </section>
+  </content>
+</document>

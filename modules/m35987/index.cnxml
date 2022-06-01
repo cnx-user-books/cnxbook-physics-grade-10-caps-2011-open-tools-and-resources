@@ -1,0 +1,37 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>MIT open coursewear</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m35987</md:content-id>
+  <md:title>MIT open coursewear</md:title>
+  <md:abstract>An Open Education Resource (OER)
+MIT's goal is to make it easy for you to find resources you can use to inspire your students
+Show science demonstrations by MIT faculties in your classroom and understand concepts by watching video demonstrations</md:abstract>
+  <md:uuid>9bfd5d4a-d44f-4dc3-9482-09502de325ab</md:uuid>
+</metadata>
+
+<content>
+    <figure id="id1167153683622">
+      <media id="id1167153683622_media" alt="">
+        <image mime-type="image/png" src="../../media/graphics1-99f2.png" id="id1167153683622__onlineimage" height="142" width="669"/>
+      </media>
+    </figure>
+    <para id="id1167149998623">MIT Open Courseware</para>
+    <para id="id1167143897013">
+      <link url="http://ocw.mit.edu/high-school/biology/">http://ocw.mit.edu/high-school/biology/</link>
+    </para>
+    <list id="id1167141602473" list-type="bulleted">
+      <item>An Open Education Resource (OER)</item>
+      <item>MIT's goal is to make it easy for you to find resources you can use to inspire your students</item>
+      <item>Show science demonstrations by MIT faculties in your classroom and understand concepts by watching video demonstrations</item>
+      <item>Provide alternate explanations to reinforce key concepts</item>
+      <item>Guide students to additional homework problems and exam examples</item>
+      <item>Add to your knowledge as a teacher</item>
+    </list>
+    <para id="id1167141731126">What the website offers:</para>
+    <list id="id1167147237334" list-type="bulleted">
+      <item>Select a topic and then a subtopic for biology related information, which includes topics such as chemistry of life, cells, heredity, evolutionary biology and so on (subtopics refine your search)</item>
+      <item>The search brings up video clips, audio clips, lecture notes, practice problems and exam questions that you can use in your classroom</item>
+      <item>This site also links to <link url="http://blossoms.mit.edu/">BLOSSOMS</link> – Blended Learning Open Source Science Or Maths Studies, which has a video library of biology (and maths and science) concepts, which includes teacher guides, written transcripts of the video and images used in the videos, as well as additional links to other online resources</item>
+    </list>
+  </content>
+</document>
